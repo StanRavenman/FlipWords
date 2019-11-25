@@ -9,5 +9,6 @@ public class TestFlip {
         Scanner in=new Scanner(System.in);
         String s=in.nextLine();
         FlipFunction.flip(s);
+        //fffffffffffffffffffffffffffffffffffffffffff
     }
 }
